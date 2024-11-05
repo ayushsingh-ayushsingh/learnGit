@@ -24,4 +24,26 @@ console.log("This is a code part");
 console.log("This is another line in the code part");
 ```
 
+For local images use this format in markdown file.
+```
 ![Space Image, The Day the Earth Smiled](image.jpg)
+```
+
+![Space Image, The Day the Earth Smiled](image.jpg)
+## Lorem Picsum Images
+
+As `Lorem Ipsum` is for text similarly `Lorem Picsum` is for images.
+
+### Visit these links below
+For an square image of side 2000px.
+```
+https://picsum.photos/2000
+```
+![Space Image, The Day the Earth Smiled](https://picsum.photos/2000)
+
+For an image of dimension 1000x2000px.
+```
+https://picsum.photos/1000/2000
+```
+![Space Image, The Day the Earth Smiled](https://picsum.photos/1080)
+
