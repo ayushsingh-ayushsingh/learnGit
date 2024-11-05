@@ -43,7 +43,7 @@ https://picsum.photos/2000
 
 For an image of dimension 1000x2000px.
 ```
-https://picsum.photos/1000/2000
+https://picsum.photos/2000/1000
 ```
-![Space Image, The Day the Earth Smiled](https://picsum.photos/1080)
+![Space Image, The Day the Earth Smiled](https://picsum.photos/2000/1000)
 
