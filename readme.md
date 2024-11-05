@@ -23,4 +23,4 @@ console.log("This is a code part");
 console.log("This is another line in the code part");
 ```
 
-![The Day the Earth Smiled] (https://picsum.photos/200)
+![The Day the Earth Smiled] (https://picsum.photos/200.png)
