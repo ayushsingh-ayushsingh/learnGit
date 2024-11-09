@@ -47,3 +47,9 @@ https://picsum.photos/2000/1000
 ```
 ![Space Image, The Day the Earth Smiled](https://picsum.photos/2000/1000)
 
+Write inside * for *italics*.
+
+Write inside ** for **Bold**.
+
+You can use *** for 
+***Bold + Italics***.
